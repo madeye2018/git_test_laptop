@@ -1,0 +1,8 @@
+prefix=/home/rui/catkin_ws/devel
+
+Name: screen_grab
+Description: Description of screen_grab
+Version: 0.0.2
+Cflags: -I/home/rui/catkin_ws/devel/include -I/opt/ros/kinetic/include/opencv-3.3.1-dev -I/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv
+Libs: -L${prefix}/lib -lscreen_grab /opt/ros/kinetic/lib/x86_64-linux-gnu/libopencv_highgui3.so.3.3.1
+Requires: nodelet roscpp sensor_msgs std_msgs

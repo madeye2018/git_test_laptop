@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.ipp": "cpp"
+    },
+    "python.autoComplete.extraPaths": [
+        "/home/rui/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/kinetic/lib/python2.7/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/rui/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/kinetic/lib/python2.7/dist-packages"
+    ],
+    "workbench.colorTheme": "Visual Studio Dark"
+}
